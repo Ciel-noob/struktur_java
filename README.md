@@ -1,1 +1,0 @@
-# struktur_java
